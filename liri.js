@@ -73,7 +73,7 @@ function movie(inputs) {
     var queryUrl = "http://www.omdbapi.com/?t=" + inputs + "&y=&plot=short&apikey=8e7c882a";
 
     request(queryUrl, function (error, response, body) {
-        if (error) {
+        if (!inputs) {
             inputs = 'Mr Nobody';
         }
         if (!error && response.statusCode === 200) {
