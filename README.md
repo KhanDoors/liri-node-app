@@ -29,9 +29,9 @@ Access Token Secret
 
 4. Used 'switch', 'case' for spotify, twitter, omdb and 'do what it says'
 
-5. Coded functions for twitter(inputs), spotify(inputs), omdb(inputs).
+5. Coded functions for twitter(inputs), spotify(inputs), omdb(inputs). (defaults for spotify: Jimi Hendrix 'all along the Watchtower')
  
 6. Coded an 'if - else' fuction utilizing the 'fs' package for different user input requests.
 
-The program worked well, my biggest challenge was coming up with 20 things to say on twitter, i'm still working on that. 
+The program worked well, my biggest challenge was coming up with 20 interesting things to say on twitter, i'm still working on that. 
 
